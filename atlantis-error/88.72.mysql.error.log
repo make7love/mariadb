@@ -1,0 +1,1384 @@
+2018-02-23  0:02:36 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer 00a1fc6e with addr tcp://192.168.88.73:4567 timed out, no messages seen in PT3S
+2018-02-23  0:02:36 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer d8f3d2b6 with addr tcp://192.168.88.71:4567 timed out, no messages seen in PT3S
+2018-02-23  0:02:36 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.71:4567 tcp://192.168.88.73:4567 
+2018-02-23  0:02:36 140006217053952 [Warning] WSREP: last inactive check more than PT1.5S ago (PT3.49935S), skipping check
+2018-02-23  0:10:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to d8f3d2b6 tcp://192.168.88.71:4567
+2018-02-23  0:10:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to 00a1fc6e tcp://192.168.88.73:4567
+2018-02-23  0:10:05 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-23  0:11:41 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer 00a1fc6e with addr tcp://192.168.88.73:4567 timed out, no messages seen in PT3S
+2018-02-23  0:11:41 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.73:4567 
+2018-02-23  0:11:42 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 00a1fc6e (tcp://192.168.88.73:4567), attempt 0
+2018-02-23  0:11:42 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to 00a1fc6e tcp://192.168.88.73:4567
+2018-02-23  0:11:46 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-23  0:35:11 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer d8f3d2b6 with addr tcp://192.168.88.71:4567 timed out, no messages seen in PT3S
+2018-02-23  0:35:11 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.71:4567 
+2018-02-23  0:35:12 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to d8f3d2b6 (tcp://192.168.88.71:4567), attempt 0
+2018-02-23  0:35:12 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to d8f3d2b6 tcp://192.168.88.71:4567
+2018-02-23  0:35:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-23  0:36:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer d8f3d2b6 with addr tcp://192.168.88.71:4567 timed out, no messages seen in PT3S
+2018-02-23  0:36:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.71:4567 
+2018-02-23  0:36:20 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to d8f3d2b6 (tcp://192.168.88.71:4567), attempt 0
+2018-02-23  0:36:21 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to d8f3d2b6 tcp://192.168.88.71:4567
+2018-02-23  0:36:24 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-23  2:44:35 140006217053952 [Warning] WSREP: last inactive check more than PT1.5S ago (PT7M25.0115S), skipping check
+2018-02-23  9:15:09 140006001731328 [Note] WSREP: Member 2.0 (YTLDS-144-1-Web01) desyncs itself from group
+2018-02-23  9:15:09 140006001731328 [Note] WSREP: Member 2.0 (YTLDS-144-1-Web01) resyncs itself to group
+2018-02-23  9:15:09 140006001731328 [Note] WSREP: Member 2.0 (YTLDS-144-1-Web01) synced with group.
+2018-02-24  0:01:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer d8f3d2b6 with addr tcp://192.168.88.71:4567 timed out, no messages seen in PT3S
+2018-02-24  0:01:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer 00a1fc6e with addr tcp://192.168.88.73:4567 timed out, no messages seen in PT3S
+2018-02-24  0:01:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.71:4567 tcp://192.168.88.73:4567 
+2018-02-24  0:01:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to d8f3d2b6 (tcp://192.168.88.71:4567), attempt 0
+2018-02-24  0:01:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 00a1fc6e (tcp://192.168.88.73:4567), attempt 0
+2018-02-24  0:01:03 140006217053952 [Note] WSREP: evs::proto(c7844ad5, OPERATIONAL, view_id(REG,00a1fc6e,766)) suspecting node: 00a1fc6e
+2018-02-24  0:01:03 140006217053952 [Note] WSREP: evs::proto(c7844ad5, OPERATIONAL, view_id(REG,00a1fc6e,766)) suspected node without join message, declaring inactive
+2018-02-24  0:01:03 140006217053952 [Note] WSREP: evs::proto(c7844ad5, OPERATIONAL, view_id(REG,00a1fc6e,766)) suspecting node: d8f3d2b6
+2018-02-24  0:01:03 140006217053952 [Note] WSREP: evs::proto(c7844ad5, OPERATIONAL, view_id(REG,00a1fc6e,766)) suspected node without join message, declaring inactive
+2018-02-24  0:01:04 140006217053952 [Note] WSREP: view(view_id(NON_PRIM,00a1fc6e,766) memb {
+	c7844ad5,0
+} joined {
+} left {
+} partitioned {
+	00a1fc6e,0
+	d8f3d2b6,0
+})
+2018-02-24  0:01:04 140006217053952 [Note] WSREP: view(view_id(NON_PRIM,c7844ad5,767) memb {
+	c7844ad5,0
+} joined {
+} left {
+} partitioned {
+	00a1fc6e,0
+	d8f3d2b6,0
+})
+2018-02-24  0:01:04 140006001731328 [Note] WSREP: New COMPONENT: primary = no, bootstrap = no, my_idx = 0, memb_num = 1
+2018-02-24  0:01:04 140006001731328 [Note] WSREP: Flow-control interval: [16, 16]
+2018-02-24  0:01:04 140006001731328 [Note] WSREP: Received NON-PRIMARY.
+2018-02-24  0:01:04 140006001731328 [Note] WSREP: Shifting SYNCED -> OPEN (TO: 730752)
+2018-02-24  0:01:04 140006001731328 [Note] WSREP: New COMPONENT: primary = no, bootstrap = no, my_idx = 0, memb_num = 1
+2018-02-24  0:01:04 140006001731328 [Note] WSREP: Flow-control interval: [16, 16]
+2018-02-24  0:01:04 140006001731328 [Note] WSREP: Received NON-PRIMARY.
+2018-02-24  0:01:04 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:730752, view# -1: non-Primary, number of nodes: 1, my index: 0, protocol version 3
+2018-02-24  0:01:04 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-24  0:01:04 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:730752, view# -1: non-Primary, number of nodes: 1, my index: 0, protocol version 3
+2018-02-24  0:01:04 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-24  0:01:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to d8f3d2b6 tcp://192.168.88.71:4567
+2018-02-24  0:01:05 140006217053952 [Note] WSREP: declaring d8f3d2b6 at tcp://192.168.88.71:4567 stable
+2018-02-24  0:01:05 140006217053952 [Note] WSREP: view(view_id(NON_PRIM,c7844ad5,768) memb {
+	c7844ad5,0
+	d8f3d2b6,0
+} joined {
+} left {
+} partitioned {
+	00a1fc6e,0
+})
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: New COMPONENT: primary = no, bootstrap = no, my_idx = 0, memb_num = 2
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: Flow-control interval: [23, 23]
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: Received NON-PRIMARY.
+2018-02-24  0:01:05 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:730752, view# -1: non-Primary, number of nodes: 2, my index: 0, protocol version 3
+2018-02-24  0:01:05 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-24  0:01:05 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer 00000000 with addr tcp://192.168.88.73:4567 timed out, no messages seen in PT3S
+2018-02-24  0:01:05 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer 00000000 with addr tcp://192.168.88.71:4567 timed out, no messages seen in PT3S
+2018-02-24  0:01:05 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to 00a1fc6e tcp://192.168.88.73:4567
+2018-02-24  0:01:05 140006217053952 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-24  0:01:05 140006217053952 [Note] WSREP: declaring d8f3d2b6 at tcp://192.168.88.71:4567 stable
+2018-02-24  0:01:05 140006217053952 [Note] WSREP: re-bootstrapping prim from partitioned components
+2018-02-24  0:01:05 140006217053952 [Note] WSREP: view(view_id(PRIM,00a1fc6e,769) memb {
+	00a1fc6e,0
+	c7844ad5,0
+	d8f3d2b6,0
+} joined {
+} left {
+} partitioned {
+})
+2018-02-24  0:01:05 140006217053952 [Note] WSREP: save pc into disk
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: New COMPONENT: primary = yes, bootstrap = no, my_idx = 1, memb_num = 3
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: STATE EXCHANGE: Waiting for state UUID.
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: STATE EXCHANGE: sent state msg: c9d18ec8-18b3-11e8-b005-3e31ecdc4d3b
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: c9d18ec8-18b3-11e8-b005-3e31ecdc4d3b from 0 (garb)
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: c9d18ec8-18b3-11e8-b005-3e31ecdc4d3b from 1 (YTLDS-144-2-Web02)
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: c9d18ec8-18b3-11e8-b005-3e31ecdc4d3b from 2 (YTLDS-144-1-Web01)
+2018-02-24  0:01:05 140006001731328 [Warning] WSREP: Quorum: No node with complete state:
+
+
+	Version      : 4
+	Flags        : 0xb
+	Protocols    : 0 / 127 / 127
+	State        : NON-PRIMARY
+	Desync count : 0
+	Prim state   : SYNCED
+	Prim UUID    : 0ed31ead-14c7-11e8-af60-9b933ddd710f
+	Prim  seqno  : 553
+	First seqno  : -1
+	Last  seqno  : 730752
+	Prim JOINED  : 3
+	State UUID   : c9d18ec8-18b3-11e8-b005-3e31ecdc4d3b
+	Group UUID   : 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956
+	Name         : 'garb'
+	Incoming addr: ''
+
+	Version      : 4
+	Flags        : 0x2
+	Protocols    : 0 / 7 / 3
+	State        : NON-PRIMARY
+	Desync count : 0
+	Prim state   : SYNCED
+	Prim UUID    : 0ed31ead-14c7-11e8-af60-9b933ddd710f
+	Prim  seqno  : 553
+	First seqno  : 597467
+	Last  seqno  : 730752
+	Prim JOINED  : 3
+	State UUID   : c9d18ec8-18b3-11e8-b005-3e31ecdc4d3b
+	Group UUID   : 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956
+	Name         : 'YTLDS-144-2-Web02'
+	Incoming addr: '192.168.88.72:3306'
+
+	Version      : 4
+	Flags        : 0x2
+	Protocols    : 0 / 7 / 3
+	State        : NON-PRIMARY
+	Desync count : 0
+	Prim state   : SYNCED
+	Prim UUID    : 0ed31ead-14c7-11e8-af60-9b933ddd710f
+	Prim  seqno  : 553
+	First seqno  : 459396
+	Last  seqno  : 730752
+	Prim JOINED  : 3
+	State UUID   : c9d18ec8-18b3-11e8-b005-3e31ecdc4d3b
+	Group UUID   : 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956
+	Name         : 'YTLDS-144-1-Web01'
+	Incoming addr: '192.168.88.71:3306'
+
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: Full re-merge of primary 0ed31ead-14c7-11e8-af60-9b933ddd710f found: 3 of 3.
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: Quorum results:
+	version    = 4,
+	component  = PRIMARY,
+	conf_id    = 553,
+	members    = 3/3 (joined/total),
+	act_id     = 730752,
+	last_appl. = 730688,
+	protocols  = 0/7/3 (gcs/repl/appl),
+	group UUID = 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: Flow-control interval: [28, 28]
+2018-02-24  0:01:05 140006001731328 [Note] WSREP: Restored state OPEN -> SYNCED (730752)
+2018-02-24  0:01:05 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:730752, view# 554: Primary, number of nodes: 3, my index: 1, protocol version 3
+2018-02-24  0:01:05 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-24  0:01:05 140006208355072 [Note] WSREP: REPL Protocols: 7 (3, 2)
+2018-02-24  0:01:05 140006208355072 [Note] WSREP: Assign initial position for certification: 730752, protocol version: 3
+2018-02-24  0:01:05 140006250624768 [Note] WSREP: Service thread queue flushed.
+2018-02-24  0:01:05 140006208355072 [Note] WSREP: Synchronized with group, ready for connections
+2018-02-24  0:01:05 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-24  0:01:08 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-24  0:01:09 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to c352e937 tcp://192.168.88.74:4567
+2018-02-24  0:01:09 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: 
+2018-02-24  0:01:09 140006217053952 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-24  0:01:09 140006217053952 [Note] WSREP: declaring c352e937 at tcp://192.168.88.74:4567 stable
+2018-02-24  0:01:09 140006217053952 [Note] WSREP: declaring d8f3d2b6 at tcp://192.168.88.71:4567 stable
+2018-02-24  0:01:09 140006217053952 [Note] WSREP: Node 00a1fc6e state prim
+2018-02-24  0:01:09 140006217053952 [Note] WSREP: view(view_id(PRIM,00a1fc6e,770) memb {
+	00a1fc6e,0
+	c352e937,0
+	c7844ad5,0
+	d8f3d2b6,0
+} joined {
+} left {
+} partitioned {
+})
+2018-02-24  0:01:09 140006217053952 [Note] WSREP: save pc into disk
+2018-02-24  0:01:09 140006001731328 [Note] WSREP: New COMPONENT: primary = yes, bootstrap = no, my_idx = 2, memb_num = 4
+2018-02-24  0:01:09 140006001731328 [Note] WSREP: STATE EXCHANGE: Waiting for state UUID.
+2018-02-24  0:01:09 140006001731328 [Note] WSREP: STATE EXCHANGE: sent state msg: cc304647-18b3-11e8-bd9b-53621116f732
+2018-02-24  0:01:09 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: cc304647-18b3-11e8-bd9b-53621116f732 from 0 (garb)
+2018-02-24  0:01:09 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: cc304647-18b3-11e8-bd9b-53621116f732 from 2 (YTLDS-144-2-Web02)
+2018-02-24  0:01:09 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: cc304647-18b3-11e8-bd9b-53621116f732 from 3 (YTLDS-144-1-Web01)
+2018-02-24  0:01:10 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: cc304647-18b3-11e8-bd9b-53621116f732 from 1 (garb)
+2018-02-24  0:01:10 140006001731328 [Note] WSREP: Quorum results:
+	version    = 4,
+	component  = PRIMARY,
+	conf_id    = 554,
+	members    = 3/4 (joined/total),
+	act_id     = 730752,
+	last_appl. = 0,
+	protocols  = 0/7/3 (gcs/repl/appl),
+	group UUID = 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956
+2018-02-24  0:01:10 140006001731328 [Note] WSREP: Flow-control interval: [32, 32]
+2018-02-24  0:01:10 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:730752, view# 555: Primary, number of nodes: 4, my index: 2, protocol version 3
+2018-02-24  0:01:10 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-24  0:01:10 140006208355072 [Note] WSREP: REPL Protocols: 7 (3, 2)
+2018-02-24  0:01:10 140006208355072 [Note] WSREP: Assign initial position for certification: 730752, protocol version: 3
+2018-02-24  0:01:10 140006250624768 [Note] WSREP: Service thread queue flushed.
+2018-02-24  0:01:10 140006001731328 [Note] WSREP: Member 1.0 (garb) requested state transfer from '*any*'. Selected 2.0 (YTLDS-144-2-Web02)(SYNCED) as donor.
+2018-02-24  0:01:10 140006001731328 [Note] WSREP: Shifting SYNCED -> DONOR/DESYNCED (TO: 730752)
+2018-02-24  0:01:10 140006001731328 [Note] WSREP: 1.0 (garb): State transfer from 2.0 (YTLDS-144-2-Web02) complete.
+2018-02-24  0:01:10 140006001731328 [Note] WSREP: 2.0 (YTLDS-144-2-Web02): State transfer to 1.0 (garb) complete.
+2018-02-24  0:01:10 140006001731328 [Note] WSREP: Shifting DONOR/DESYNCED -> JOINED (TO: 730752)
+2018-02-24  0:01:10 140006001731328 [Note] WSREP: Member 1.0 (garb) synced with group.
+2018-02-24  0:01:10 140006001731328 [Note] WSREP: Member 2.0 (YTLDS-144-2-Web02) synced with group.
+2018-02-24  0:01:10 140006001731328 [Note] WSREP: Shifting JOINED -> SYNCED (TO: 730752)
+2018-02-24  0:01:10 140006208355072 [Note] WSREP: Synchronized with group, ready for connections
+2018-02-24  0:01:10 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-24  0:01:12 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-24  0:02:26 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer d8f3d2b6 with addr tcp://192.168.88.71:4567 timed out, no messages seen in PT3S
+2018-02-24  0:02:26 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.71:4567 
+2018-02-24  0:02:27 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to d8f3d2b6 (tcp://192.168.88.71:4567), attempt 0
+2018-02-24  0:02:27 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to d8f3d2b6 tcp://192.168.88.71:4567
+2018-02-24  0:02:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-24  0:11:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer c352e937 with addr tcp://192.168.88.74:4567 timed out, no messages seen in PT3S
+2018-02-24  0:11:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer 00a1fc6e with addr tcp://192.168.88.73:4567 timed out, no messages seen in PT3S
+2018-02-24  0:11:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer d8f3d2b6 with addr tcp://192.168.88.71:4567 timed out, no messages seen in PT3S
+2018-02-24  0:11:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.71:4567 tcp://192.168.88.73:4567 tcp://192.168.88.74:4567 
+2018-02-24  0:11:48 140006217053952 [Warning] WSREP: last inactive check more than PT1.5S ago (PT4.16142S), skipping check
+2018-02-24  0:19:13 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to 00a1fc6e tcp://192.168.88.73:4567
+2018-02-24  0:19:13 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to c352e937 tcp://192.168.88.74:4567
+2018-02-24  0:19:13 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to d8f3d2b6 tcp://192.168.88.71:4567
+2018-02-24  0:19:16 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-24  0:30:40 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer c352e937 with addr tcp://192.168.88.74:4567 timed out, no messages seen in PT3S
+2018-02-24  0:30:40 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.74:4567 
+2018-02-24  0:30:41 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to c352e937 (tcp://192.168.88.74:4567), attempt 0
+2018-02-24  0:30:42 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to c352e937 tcp://192.168.88.74:4567
+2018-02-24  0:30:42 140006217053952 [Note] WSREP: evs::proto(c7844ad5, GATHER, view_id(REG,00a1fc6e,770)) suspecting node: c352e937
+2018-02-24  0:30:42 140006217053952 [Note] WSREP: evs::proto(c7844ad5, GATHER, view_id(REG,00a1fc6e,770)) suspected node without join message, declaring inactive
+2018-02-24  0:30:42 140006217053952 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-24  0:30:42 140006217053952 [Note] WSREP: declaring d8f3d2b6 at tcp://192.168.88.71:4567 stable
+2018-02-24  0:30:42 140006217053952 [Note] WSREP: Node 00a1fc6e state prim
+2018-02-24  0:30:42 140006217053952 [Note] WSREP: view(view_id(PRIM,00a1fc6e,771) memb {
+	00a1fc6e,0
+	c7844ad5,0
+	d8f3d2b6,0
+} joined {
+} left {
+} partitioned {
+	c352e937,0
+})
+2018-02-24  0:30:42 140006217053952 [Note] WSREP: save pc into disk
+2018-02-24  0:30:42 140006217053952 [Note] WSREP: forgetting c352e937 (tcp://192.168.88.74:4567)
+2018-02-24  0:30:42 140006001731328 [Note] WSREP: New COMPONENT: primary = yes, bootstrap = no, my_idx = 1, memb_num = 3
+2018-02-24  0:30:42 140006001731328 [Note] WSREP: STATE EXCHANGE: Waiting for state UUID.
+2018-02-24  0:30:42 140006001731328 [Note] WSREP: STATE EXCHANGE: sent state msg: e432640c-18b6-11e8-a588-f3ab374284a3
+2018-02-24  0:30:42 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: e432640c-18b6-11e8-a588-f3ab374284a3 from 0 (garb)
+2018-02-24  0:30:42 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: e432640c-18b6-11e8-a588-f3ab374284a3 from 1 (YTLDS-144-2-Web02)
+2018-02-24  0:30:42 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: e432640c-18b6-11e8-a588-f3ab374284a3 from 2 (YTLDS-144-1-Web01)
+2018-02-24  0:30:42 140006001731328 [Note] WSREP: Quorum results:
+	version    = 4,
+	component  = PRIMARY,
+	conf_id    = 555,
+	members    = 3/3 (joined/total),
+	act_id     = 731314,
+	last_appl. = 731200,
+	protocols  = 0/7/3 (gcs/repl/appl),
+	group UUID = 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956
+2018-02-24  0:30:42 140006001731328 [Note] WSREP: Flow-control interval: [28, 28]
+2018-02-24  0:30:42 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:731314, view# 556: Primary, number of nodes: 3, my index: 1, protocol version 3
+2018-02-24  0:30:42 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-24  0:30:42 140006208355072 [Note] WSREP: REPL Protocols: 7 (3, 2)
+2018-02-24  0:30:42 140006208355072 [Note] WSREP: Assign initial position for certification: 731314, protocol version: 3
+2018-02-24  0:30:42 140006250624768 [Note] WSREP: Service thread queue flushed.
+2018-02-24  0:30:45 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-24  0:30:45 140006217053952 [Note] WSREP:  cleaning up c352e937 (tcp://192.168.88.74:4567)
+2018-02-24  0:30:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to c352e937 tcp://192.168.88.74:4567
+2018-02-24  0:30:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: 
+2018-02-24  0:30:47 140006217053952 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-24  0:30:47 140006217053952 [Note] WSREP: declaring d8f3d2b6 at tcp://192.168.88.71:4567 stable
+2018-02-24  0:30:47 140006217053952 [Note] WSREP: Node 00a1fc6e state prim
+2018-02-24  0:30:48 140006217053952 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-24  0:30:48 140006217053952 [Note] WSREP: declaring d8f3d2b6 at tcp://192.168.88.71:4567 stable
+2018-02-24  0:30:48 140006217053952 [Note] WSREP: Node 00a1fc6e state prim
+2018-02-24  0:30:48 140006217053952 [Note] WSREP: view(view_id(PRIM,00a1fc6e,773) memb {
+	00a1fc6e,0
+	c7844ad5,0
+	d8f3d2b6,0
+} joined {
+} left {
+} partitioned {
+})
+2018-02-24  0:30:48 140006217053952 [Note] WSREP: save pc into disk
+2018-02-24  0:30:48 140006217053952 [Note] WSREP: forgetting c352e937 (tcp://192.168.88.74:4567)
+2018-02-24  0:30:48 140006001731328 [Note] WSREP: New COMPONENT: primary = yes, bootstrap = no, my_idx = 1, memb_num = 3
+2018-02-24  0:30:48 140006001731328 [Note] WSREP: STATE EXCHANGE: Waiting for state UUID.
+2018-02-24  0:30:48 140006001731328 [Note] WSREP: STATE EXCHANGE: sent state msg: e7c6d96b-18b6-11e8-a02f-274090397cd7
+2018-02-24  0:30:48 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: e7c6d96b-18b6-11e8-a02f-274090397cd7 from 0 (garb)
+2018-02-24  0:30:48 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: e7c6d96b-18b6-11e8-a02f-274090397cd7 from 1 (YTLDS-144-2-Web02)
+2018-02-24  0:30:48 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: e7c6d96b-18b6-11e8-a02f-274090397cd7 from 2 (YTLDS-144-1-Web01)
+2018-02-24  0:30:48 140006001731328 [Note] WSREP: Quorum results:
+	version    = 4,
+	component  = PRIMARY,
+	conf_id    = 556,
+	members    = 3/3 (joined/total),
+	act_id     = 731314,
+	last_appl. = 731200,
+	protocols  = 0/7/3 (gcs/repl/appl),
+	group UUID = 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956
+2018-02-24  0:30:48 140006001731328 [Note] WSREP: Flow-control interval: [28, 28]
+2018-02-24  0:30:48 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:731314, view# 557: Primary, number of nodes: 3, my index: 1, protocol version 3
+2018-02-24  0:30:48 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-24  0:30:48 140006208355072 [Note] WSREP: REPL Protocols: 7 (3, 2)
+2018-02-24  0:30:48 140006208355072 [Note] WSREP: Assign initial position for certification: 731314, protocol version: 3
+2018-02-24  0:30:48 140006250624768 [Note] WSREP: Service thread queue flushed.
+2018-02-24  0:30:50 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to c352e937 tcp://192.168.88.74:4567
+2018-02-24  0:30:50 140006217053952 [Warning] WSREP: discarding established (time wait) c352e937 (tcp://192.168.88.74:4567) 
+2018-02-24  0:30:50 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-24  0:30:51 140006217053952 [Note] WSREP:  cleaning up c352e937 (tcp://192.168.88.74:4567)
+2018-02-24  0:30:55 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to c352e937 tcp://192.168.88.74:4567
+2018-02-24  0:30:55 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: 
+2018-02-24  0:30:55 140006217053952 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-24  0:30:55 140006217053952 [Note] WSREP: declaring c352e937 at tcp://192.168.88.74:4567 stable
+2018-02-24  0:30:55 140006217053952 [Note] WSREP: declaring d8f3d2b6 at tcp://192.168.88.71:4567 stable
+2018-02-24  0:30:55 140006217053952 [Note] WSREP: Node 00a1fc6e state prim
+2018-02-24  0:30:55 140006217053952 [Note] WSREP: view(view_id(PRIM,00a1fc6e,776) memb {
+	00a1fc6e,0
+	c352e937,0
+	c7844ad5,0
+	d8f3d2b6,0
+} joined {
+} left {
+} partitioned {
+})
+2018-02-24  0:30:55 140006217053952 [Note] WSREP: save pc into disk
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: New COMPONENT: primary = yes, bootstrap = no, my_idx = 2, memb_num = 4
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: STATE EXCHANGE: Waiting for state UUID.
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: STATE EXCHANGE: sent state msg: ebf3a6cf-18b6-11e8-b23e-92de7adb62a6
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: ebf3a6cf-18b6-11e8-b23e-92de7adb62a6 from 0 (garb)
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: ebf3a6cf-18b6-11e8-b23e-92de7adb62a6 from 1 (garb)
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: ebf3a6cf-18b6-11e8-b23e-92de7adb62a6 from 2 (YTLDS-144-2-Web02)
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: STATE EXCHANGE: got state msg: ebf3a6cf-18b6-11e8-b23e-92de7adb62a6 from 3 (YTLDS-144-1-Web01)
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: Quorum results:
+	version    = 4,
+	component  = PRIMARY,
+	conf_id    = 557,
+	members    = 3/4 (joined/total),
+	act_id     = 731316,
+	last_appl. = 731200,
+	protocols  = 0/7/3 (gcs/repl/appl),
+	group UUID = 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: Flow-control interval: [32, 32]
+2018-02-24  0:30:55 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:731316, view# 558: Primary, number of nodes: 4, my index: 2, protocol version 3
+2018-02-24  0:30:55 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-24  0:30:55 140006208355072 [Note] WSREP: REPL Protocols: 7 (3, 2)
+2018-02-24  0:30:55 140006208355072 [Note] WSREP: Assign initial position for certification: 731316, protocol version: 3
+2018-02-24  0:30:55 140006250624768 [Note] WSREP: Service thread queue flushed.
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: Member 1.0 (garb) requested state transfer from '*any*'. Selected 2.0 (YTLDS-144-2-Web02)(SYNCED) as donor.
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: Shifting SYNCED -> DONOR/DESYNCED (TO: 731316)
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: 1.0 (garb): State transfer from 2.0 (YTLDS-144-2-Web02) complete.
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: 2.0 (YTLDS-144-2-Web02): State transfer to 1.0 (garb) complete.
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: Shifting DONOR/DESYNCED -> JOINED (TO: 731316)
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: Member 1.0 (garb) synced with group.
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: Member 2.0 (YTLDS-144-2-Web02) synced with group.
+2018-02-24  0:30:55 140006001731328 [Note] WSREP: Shifting JOINED -> SYNCED (TO: 731316)
+2018-02-24  0:30:55 140006208355072 [Note] WSREP: Synchronized with group, ready for connections
+2018-02-24  0:30:55 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-24  0:30:58 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-24  0:31:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer c352e937 with addr tcp://192.168.88.74:4567 timed out, no messages seen in PT3S
+2018-02-24  0:31:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.74:4567 
+2018-02-24  0:31:50 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to c352e937 (tcp://192.168.88.74:4567), attempt 0
+2018-02-24  0:31:50 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to c352e937 tcp://192.168.88.74:4567
+2018-02-24  0:31:53 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-24  3:02:48 140006217053952 [Warning] WSREP: last inactive check more than PT1.5S ago (PT7M24.0241S), skipping check
+2018-02-24  9:15:08 140006001731328 [Note] WSREP: Member 3.0 (YTLDS-144-1-Web01) desyncs itself from group
+2018-02-24  9:15:09 140006001731328 [Note] WSREP: Member 3.0 (YTLDS-144-1-Web01) resyncs itself to group
+2018-02-24  9:15:09 140006001731328 [Note] WSREP: Member 3.0 (YTLDS-144-1-Web01) synced with group.
+2018-02-25  0:25:53 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer d8f3d2b6 with addr tcp://192.168.88.71:4567 timed out, no messages seen in PT3S
+2018-02-25  0:25:53 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.71:4567 
+2018-02-25  0:25:54 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to d8f3d2b6 (tcp://192.168.88.71:4567), attempt 0
+2018-02-25  0:25:54 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to d8f3d2b6 tcp://192.168.88.71:4567
+2018-02-25  0:25:57 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-25  0:27:13 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer 00a1fc6e with addr tcp://192.168.88.73:4567 timed out, no messages seen in PT3S
+2018-02-25  0:27:13 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.73:4567 
+2018-02-25  0:27:14 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 00a1fc6e (tcp://192.168.88.73:4567), attempt 0
+2018-02-25  0:27:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to 00a1fc6e tcp://192.168.88.73:4567
+2018-02-25  0:27:15 140006217053952 [Note] WSREP: evs::proto(c7844ad5, GATHER, view_id(REG,00a1fc6e,776)) suspecting node: 00a1fc6e
+2018-02-25  0:27:15 140006217053952 [Note] WSREP: evs::proto(c7844ad5, GATHER, view_id(REG,00a1fc6e,776)) suspected node without join message, declaring inactive
+2018-02-25  0:27:15 140006217053952 [Note] WSREP: declaring c352e937 at tcp://192.168.88.74:4567 stable
+2018-02-25  0:27:15 140006217053952 [Note] WSREP: declaring d8f3d2b6 at tcp://192.168.88.71:4567 stable
+2018-02-25  0:27:15 140006217053952 [Note] WSREP: Node c352e937 state prim
+2018-02-25  0:27:15 140006217053952 [Note] WSREP: view(view_id(NON_PRIM,c352e937,777) memb {
+	c7844ad5,0
+	d8f3d2b6,0
+} joined {
+} left {
+} partitioned {
+	00a1fc6e,0
+	c352e937,0
+})
+2018-02-25  0:27:15 140006001731328 [Note] WSREP: New COMPONENT: primary = no, bootstrap = no, my_idx = 0, memb_num = 2
+2018-02-25  0:27:15 140006001731328 [Note] WSREP: Flow-control interval: [23, 23]
+2018-02-25  0:27:15 140006001731328 [Note] WSREP: Received NON-PRIMARY.
+2018-02-25  0:27:15 140006001731328 [Note] WSREP: Shifting SYNCED -> OPEN (TO: 743472)
+2018-02-25  0:27:15 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472, view# -1: non-Primary, number of nodes: 2, my index: 0, protocol version 3
+2018-02-25  0:27:15 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-25  0:27:15 140006217053952 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-25  0:27:15 140006217053952 [Note] WSREP: declaring d8f3d2b6 at tcp://192.168.88.71:4567 stable
+2018-02-25  0:27:15 140006217053952 [Note] WSREP: view(view_id(NON_PRIM,00a1fc6e,778) memb {
+	00a1fc6e,0
+	c7844ad5,0
+	d8f3d2b6,0
+} joined {
+} left {
+} partitioned {
+	c352e937,0
+})
+2018-02-25  0:27:15 140006001731328 [Note] WSREP: New COMPONENT: primary = no, bootstrap = no, my_idx = 1, memb_num = 3
+2018-02-25  0:27:15 140006001731328 [Note] WSREP: Flow-control interval: [28, 28]
+2018-02-25  0:27:15 140006001731328 [Note] WSREP: Received NON-PRIMARY.
+2018-02-25  0:27:15 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472, view# -1: non-Primary, number of nodes: 3, my index: 1, protocol version 3
+2018-02-25  0:27:15 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-25  0:27:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to c352e937 (tcp://192.168.88.74:4567), attempt 0
+2018-02-25  0:27:21 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to 96986128 tcp://192.168.88.74:4567
+2018-02-25  0:27:21 140006217053952 [Note] WSREP: remote endpoint tcp://192.168.88.74:4567 changed identity c352e937 -> 96986128
+2018-02-25  0:27:21 140006217053952 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-25  0:27:21 140006217053952 [Note] WSREP: declaring 96986128 at tcp://192.168.88.74:4567 stable
+2018-02-25  0:27:21 140006217053952 [Note] WSREP: declaring d8f3d2b6 at tcp://192.168.88.71:4567 stable
+2018-02-25  0:27:21 140006217053952 [Note] WSREP: view(view_id(NON_PRIM,00a1fc6e,779) memb {
+	00a1fc6e,0
+	96986128,0
+	c7844ad5,0
+	d8f3d2b6,0
+} joined {
+} left {
+} partitioned {
+	c352e937,0
+})
+2018-02-25  0:27:21 140006001731328 [Note] WSREP: New COMPONENT: primary = no, bootstrap = no, my_idx = 2, memb_num = 4
+2018-02-25  0:27:21 140006001731328 [Note] WSREP: Flow-control interval: [32, 32]
+2018-02-25  0:27:21 140006001731328 [Note] WSREP: Received NON-PRIMARY.
+2018-02-25  0:27:21 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472, view# -1: non-Primary, number of nodes: 4, my index: 2, protocol version 3
+2018-02-25  0:27:21 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-25  0:27:24 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-25  0:27:51 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.74:4567 
+2018-02-25  0:27:53 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 0
+2018-02-25  0:27:57 140006217053952 [Note] WSREP: evs::proto(c7844ad5, GATHER, view_id(REG,00a1fc6e,779)) suspecting node: 96986128
+2018-02-25  0:27:57 140006217053952 [Note] WSREP: evs::proto(c7844ad5, GATHER, view_id(REG,00a1fc6e,779)) suspected node without join message, declaring inactive
+2018-02-25  0:27:57 140006217053952 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-25  0:27:57 140006217053952 [Note] WSREP: declaring d8f3d2b6 at tcp://192.168.88.71:4567 stable
+2018-02-25  0:27:57 140006217053952 [Note] WSREP: view(view_id(NON_PRIM,00a1fc6e,780) memb {
+	00a1fc6e,0
+	c7844ad5,0
+	d8f3d2b6,0
+} joined {
+} left {
+} partitioned {
+	96986128,0
+	c352e937,0
+})
+2018-02-25  0:27:57 140006001731328 [Note] WSREP: New COMPONENT: primary = no, bootstrap = no, my_idx = 1, memb_num = 3
+2018-02-25  0:27:57 140006001731328 [Note] WSREP: Flow-control interval: [28, 28]
+2018-02-25  0:27:57 140006001731328 [Note] WSREP: Received NON-PRIMARY.
+2018-02-25  0:27:57 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472, view# -1: non-Primary, number of nodes: 3, my index: 1, protocol version 3
+2018-02-25  0:27:57 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-25  0:28:38 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 30
+2018-02-25  0:29:23 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 60
+2018-02-25  0:30:08 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 90
+2018-02-25  0:30:53 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 120
+2018-02-25  0:31:38 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 150
+2018-02-25  0:32:23 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 180
+2018-02-25  0:33:08 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 210
+2018-02-25  0:33:53 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 240
+2018-02-25  0:34:38 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 270
+2018-02-25  0:35:23 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 300
+2018-02-25  0:36:08 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 330
+2018-02-25  0:36:52 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 360
+2018-02-25  0:37:37 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 390
+2018-02-25  0:38:22 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 420
+2018-02-25  0:39:07 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 450
+2018-02-25  0:39:52 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 480
+2018-02-25  0:40:37 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 510
+2018-02-25  0:41:22 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 540
+2018-02-25  0:42:07 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 570
+2018-02-25  0:42:52 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 600
+2018-02-25  0:43:37 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 630
+2018-02-25  0:44:22 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 660
+2018-02-25  0:45:07 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 690
+2018-02-25  0:45:52 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 720
+2018-02-25  0:46:37 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 750
+2018-02-25  0:47:22 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 780
+2018-02-25  0:48:07 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 810
+2018-02-25  0:48:27 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer d8f3d2b6 with addr tcp://192.168.88.71:4567 timed out, no messages seen in PT3S
+2018-02-25  0:48:28 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to d8f3d2b6 (tcp://192.168.88.71:4567), attempt 0
+2018-02-25  0:48:28 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to d8f3d2b6 tcp://192.168.88.71:4567
+2018-02-25  0:48:51 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 840
+2018-02-25  0:49:36 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 870
+2018-02-25  0:50:21 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 900
+2018-02-25  0:51:06 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 930
+2018-02-25  0:51:51 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 960
+2018-02-25  0:52:36 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 990
+2018-02-25  0:53:21 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1020
+2018-02-25  0:54:06 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1050
+2018-02-25  0:54:50 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1080
+2018-02-25  0:55:35 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1110
+2018-02-25  0:56:20 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1140
+2018-02-25  0:57:05 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1170
+2018-02-25  0:57:50 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1200
+2018-02-25  0:58:35 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1230
+2018-02-25  0:59:20 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1260
+2018-02-25  1:00:05 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1290
+2018-02-25  1:00:50 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1320
+2018-02-25  1:01:35 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1350
+2018-02-25  1:02:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1380
+2018-02-25  1:03:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1410
+2018-02-25  1:03:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1440
+2018-02-25  1:04:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1470
+2018-02-25  1:05:20 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1500
+2018-02-25  1:06:05 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1530
+2018-02-25  1:06:50 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1560
+2018-02-25  1:07:35 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1590
+2018-02-25  1:08:08 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer 00a1fc6e with addr tcp://192.168.88.73:4567 timed out, no messages seen in PT3S
+2018-02-25  1:08:08 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer d8f3d2b6 with addr tcp://192.168.88.71:4567 timed out, no messages seen in PT3S
+2018-02-25  1:08:08 140006217053952 [Warning] WSREP: last inactive check more than PT1.5S ago (PT4.08733S), skipping check
+2018-02-25  1:15:31 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to 00a1fc6e tcp://192.168.88.73:4567
+2018-02-25  1:15:31 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection established to d8f3d2b6 tcp://192.168.88.71:4567
+2018-02-25  1:15:46 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1620
+2018-02-25  1:16:31 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1650
+2018-02-25  1:17:16 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1680
+2018-02-25  1:18:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1710
+2018-02-25  1:18:46 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1740
+2018-02-25  1:19:31 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1770
+2018-02-25  1:20:16 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1800
+2018-02-25  1:21:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1830
+2018-02-25  1:21:46 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1860
+2018-02-25  1:22:31 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1890
+2018-02-25  1:23:16 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1920
+2018-02-25  1:24:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1950
+2018-02-25  1:24:46 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 1980
+2018-02-25  1:25:31 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2010
+2018-02-25  1:26:16 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2040
+2018-02-25  1:27:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2070
+2018-02-25  1:27:46 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2100
+2018-02-25  1:28:31 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2130
+2018-02-25  1:29:16 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2160
+2018-02-25  1:30:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2190
+2018-02-25  1:30:46 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2220
+2018-02-25  1:31:31 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2250
+2018-02-25  1:32:16 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2280
+2018-02-25  1:33:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2310
+2018-02-25  1:33:46 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2340
+2018-02-25  1:34:31 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2370
+2018-02-25  1:35:16 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2400
+2018-02-25  1:36:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2430
+2018-02-25  1:36:46 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2460
+2018-02-25  1:37:31 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2490
+2018-02-25  1:38:16 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2520
+2018-02-25  1:39:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2550
+2018-02-25  1:39:46 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2580
+2018-02-25  1:40:31 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2610
+2018-02-25  1:41:16 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2640
+2018-02-25  1:42:01 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2670
+2018-02-25  1:42:46 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2700
+2018-02-25  1:43:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2730
+2018-02-25  1:44:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2760
+2018-02-25  1:45:00 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2790
+2018-02-25  1:45:45 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2820
+2018-02-25  1:46:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2850
+2018-02-25  1:47:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2880
+2018-02-25  1:48:00 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2910
+2018-02-25  1:48:45 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2940
+2018-02-25  1:49:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 2970
+2018-02-25  1:50:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3000
+2018-02-25  1:51:00 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3030
+2018-02-25  1:51:45 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3060
+2018-02-25  1:52:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3090
+2018-02-25  1:53:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3120
+2018-02-25  1:54:00 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3150
+2018-02-25  1:54:45 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3180
+2018-02-25  1:55:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3210
+2018-02-25  1:56:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3240
+2018-02-25  1:57:00 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3270
+2018-02-25  1:57:45 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3300
+2018-02-25  1:58:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3330
+2018-02-25  1:59:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3360
+2018-02-25  2:00:00 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3390
+2018-02-25  2:00:45 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3420
+2018-02-25  2:01:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3450
+2018-02-25  2:02:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3480
+2018-02-25  2:03:00 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3510
+2018-02-25  2:03:45 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3540
+2018-02-25  2:04:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3570
+2018-02-25  2:05:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3600
+2018-02-25  2:06:00 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3630
+2018-02-25  2:06:45 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3660
+2018-02-25  2:07:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3690
+2018-02-25  2:08:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3720
+2018-02-25  2:09:00 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3750
+2018-02-25  2:09:45 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3780
+2018-02-25  2:10:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3810
+2018-02-25  2:11:15 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3840
+2018-02-25  2:12:00 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3870
+2018-02-25  2:12:45 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3900
+2018-02-25  2:13:30 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3930
+2018-02-25  2:14:14 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') connection to peer 00000000 with addr tcp://192.168.88.74:4567 timed out, no messages seen in PT3S
+2018-02-25  2:14:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3960
+2018-02-25  2:15:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 3990
+2018-02-25  2:15:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4020
+2018-02-25  2:16:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4050
+2018-02-25  2:17:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4080
+2018-02-25  2:18:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4110
+2018-02-25  2:18:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4140
+2018-02-25  2:19:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4170
+2018-02-25  2:20:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4200
+2018-02-25  2:21:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4230
+2018-02-25  2:21:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4260
+2018-02-25  2:22:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4290
+2018-02-25  2:23:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4320
+2018-02-25  2:24:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4350
+2018-02-25  2:24:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4380
+2018-02-25  2:25:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4410
+2018-02-25  2:26:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4440
+2018-02-25  2:27:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4470
+2018-02-25  2:27:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4500
+2018-02-25  2:28:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4530
+2018-02-25  2:29:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4560
+2018-02-25  2:30:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4590
+2018-02-25  2:30:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4620
+2018-02-25  2:31:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4650
+2018-02-25  2:32:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4680
+2018-02-25  2:33:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4710
+2018-02-25  2:33:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4740
+2018-02-25  2:34:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4770
+2018-02-25  2:35:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4800
+2018-02-25  2:36:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4830
+2018-02-25  2:36:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4860
+2018-02-25  2:37:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4890
+2018-02-25  2:38:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4920
+2018-02-25  2:39:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4950
+2018-02-25  2:39:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 4980
+2018-02-25  2:40:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5010
+2018-02-25  2:41:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5040
+2018-02-25  2:42:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5070
+2018-02-25  2:42:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5100
+2018-02-25  2:43:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5130
+2018-02-25  2:44:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5160
+2018-02-25  2:45:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5190
+2018-02-25  2:45:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5220
+2018-02-25  2:46:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5250
+2018-02-25  2:47:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5280
+2018-02-25  2:48:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5310
+2018-02-25  2:48:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5340
+2018-02-25  2:49:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5370
+2018-02-25  2:50:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5400
+2018-02-25  2:51:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5430
+2018-02-25  2:51:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5460
+2018-02-25  2:52:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5490
+2018-02-25  2:53:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5520
+2018-02-25  2:54:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5550
+2018-02-25  2:54:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5580
+2018-02-25  2:55:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5610
+2018-02-25  2:56:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5640
+2018-02-25  2:57:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5670
+2018-02-25  2:57:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5700
+2018-02-25  2:58:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5730
+2018-02-25  2:59:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5760
+2018-02-25  3:00:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5790
+2018-02-25  3:00:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5820
+2018-02-25  3:01:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5850
+2018-02-25  3:02:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5880
+2018-02-25  3:03:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5910
+2018-02-25  3:03:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5940
+2018-02-25  3:04:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 5970
+2018-02-25  3:05:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6000
+2018-02-25  3:06:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6030
+2018-02-25  3:06:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6060
+2018-02-25  3:07:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6090
+2018-02-25  3:08:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6120
+2018-02-25  3:09:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6150
+2018-02-25  3:09:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6180
+2018-02-25  3:10:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6210
+2018-02-25  3:11:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6240
+2018-02-25  3:12:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6270
+2018-02-25  3:12:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6300
+2018-02-25  3:13:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6330
+2018-02-25  3:14:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6360
+2018-02-25  3:15:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6390
+2018-02-25  3:15:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6420
+2018-02-25  3:16:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6450
+2018-02-25  3:17:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6480
+2018-02-25  3:18:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6510
+2018-02-25  3:18:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6540
+2018-02-25  3:19:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6570
+2018-02-25  3:20:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6600
+2018-02-25  3:21:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6630
+2018-02-25  3:21:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6660
+2018-02-25  3:22:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6690
+2018-02-25  3:23:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6720
+2018-02-25  3:24:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6750
+2018-02-25  3:24:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6780
+2018-02-25  3:25:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6810
+2018-02-25  3:26:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6840
+2018-02-25  3:27:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6870
+2018-02-25  3:27:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6900
+2018-02-25  3:28:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6930
+2018-02-25  3:29:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6960
+2018-02-25  3:30:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 6990
+2018-02-25  3:30:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7020
+2018-02-25  3:31:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7050
+2018-02-25  3:32:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7080
+2018-02-25  3:33:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7110
+2018-02-25  3:33:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7140
+2018-02-25  3:34:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7170
+2018-02-25  3:35:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7200
+2018-02-25  3:36:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7230
+2018-02-25  3:36:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7260
+2018-02-25  3:37:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7290
+2018-02-25  3:38:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7320
+2018-02-25  3:39:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7350
+2018-02-25  3:39:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7380
+2018-02-25  3:40:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7410
+2018-02-25  3:41:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7440
+2018-02-25  3:42:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7470
+2018-02-25  3:42:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7500
+2018-02-25  3:43:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7530
+2018-02-25  3:43:38 140006217053952 [Warning] WSREP: last inactive check more than PT1.5S ago (PT7M23.5611S), skipping check
+2018-02-25  3:44:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7560
+2018-02-25  3:45:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7590
+2018-02-25  3:45:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7620
+2018-02-25  3:46:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7650
+2018-02-25  3:47:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7680
+2018-02-25  3:48:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7710
+2018-02-25  3:48:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7740
+2018-02-25  3:49:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7770
+2018-02-25  3:50:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7800
+2018-02-25  3:51:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7830
+2018-02-25  3:51:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7860
+2018-02-25  3:52:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7890
+2018-02-25  3:53:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7920
+2018-02-25  3:54:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7950
+2018-02-25  3:54:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 7980
+2018-02-25  3:55:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8010
+2018-02-25  3:56:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8040
+2018-02-25  3:57:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8070
+2018-02-25  3:57:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8100
+2018-02-25  3:58:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8130
+2018-02-25  3:59:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8160
+2018-02-25  4:00:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8190
+2018-02-25  4:00:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8220
+2018-02-25  4:01:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8250
+2018-02-25  4:02:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8280
+2018-02-25  4:03:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8310
+2018-02-25  4:03:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8340
+2018-02-25  4:04:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8370
+2018-02-25  4:05:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8400
+2018-02-25  4:06:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8430
+2018-02-25  4:06:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8460
+2018-02-25  4:07:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8490
+2018-02-25  4:08:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8520
+2018-02-25  4:09:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8550
+2018-02-25  4:09:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8580
+2018-02-25  4:10:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8610
+2018-02-25  4:11:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8640
+2018-02-25  4:12:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8670
+2018-02-25  4:12:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8700
+2018-02-25  4:13:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8730
+2018-02-25  4:14:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8760
+2018-02-25  4:15:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8790
+2018-02-25  4:15:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8820
+2018-02-25  4:16:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8850
+2018-02-25  4:17:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8880
+2018-02-25  4:18:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8910
+2018-02-25  4:18:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8940
+2018-02-25  4:19:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 8970
+2018-02-25  4:20:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9000
+2018-02-25  4:21:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9030
+2018-02-25  4:21:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9060
+2018-02-25  4:22:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9090
+2018-02-25  4:23:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9120
+2018-02-25  4:24:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9150
+2018-02-25  4:24:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9180
+2018-02-25  4:25:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9210
+2018-02-25  4:26:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9240
+2018-02-25  4:27:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9270
+2018-02-25  4:27:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9300
+2018-02-25  4:28:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9330
+2018-02-25  4:29:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9360
+2018-02-25  4:30:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9390
+2018-02-25  4:30:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9420
+2018-02-25  4:31:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9450
+2018-02-25  4:32:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9480
+2018-02-25  4:33:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9510
+2018-02-25  4:33:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9540
+2018-02-25  4:34:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9570
+2018-02-25  4:35:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9600
+2018-02-25  4:36:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9630
+2018-02-25  4:36:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9660
+2018-02-25  4:37:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9690
+2018-02-25  4:38:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9720
+2018-02-25  4:39:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9750
+2018-02-25  4:39:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9780
+2018-02-25  4:40:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9810
+2018-02-25  4:41:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9840
+2018-02-25  4:42:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9870
+2018-02-25  4:42:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9900
+2018-02-25  4:43:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9930
+2018-02-25  4:44:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9960
+2018-02-25  4:45:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 9990
+2018-02-25  4:45:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10020
+2018-02-25  4:46:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10050
+2018-02-25  4:47:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10080
+2018-02-25  4:48:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10110
+2018-02-25  4:48:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10140
+2018-02-25  4:49:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10170
+2018-02-25  4:50:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10200
+2018-02-25  4:51:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10230
+2018-02-25  4:51:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10260
+2018-02-25  4:52:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10290
+2018-02-25  4:53:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10320
+2018-02-25  4:54:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10350
+2018-02-25  4:54:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10380
+2018-02-25  4:55:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10410
+2018-02-25  4:56:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10440
+2018-02-25  4:57:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10470
+2018-02-25  4:57:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10500
+2018-02-25  4:58:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10530
+2018-02-25  4:59:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10560
+2018-02-25  5:00:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10590
+2018-02-25  5:00:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10620
+2018-02-25  5:01:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10650
+2018-02-25  5:02:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10680
+2018-02-25  5:03:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10710
+2018-02-25  5:03:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10740
+2018-02-25  5:04:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10770
+2018-02-25  5:05:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10800
+2018-02-25  5:06:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10830
+2018-02-25  5:06:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10860
+2018-02-25  5:07:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10890
+2018-02-25  5:08:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10920
+2018-02-25  5:09:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10950
+2018-02-25  5:09:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 10980
+2018-02-25  5:10:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11010
+2018-02-25  5:11:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11040
+2018-02-25  5:12:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11070
+2018-02-25  5:12:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11100
+2018-02-25  5:13:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11130
+2018-02-25  5:14:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11160
+2018-02-25  5:15:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11190
+2018-02-25  5:15:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11220
+2018-02-25  5:16:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11250
+2018-02-25  5:17:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11280
+2018-02-25  5:18:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11310
+2018-02-25  5:18:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11340
+2018-02-25  5:19:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11370
+2018-02-25  5:20:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11400
+2018-02-25  5:21:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11430
+2018-02-25  5:21:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11460
+2018-02-25  5:22:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11490
+2018-02-25  5:23:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11520
+2018-02-25  5:24:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11550
+2018-02-25  5:24:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11580
+2018-02-25  5:25:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11610
+2018-02-25  5:26:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11640
+2018-02-25  5:27:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11670
+2018-02-25  5:27:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11700
+2018-02-25  5:28:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11730
+2018-02-25  5:29:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11760
+2018-02-25  5:30:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11790
+2018-02-25  5:30:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11820
+2018-02-25  5:31:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11850
+2018-02-25  5:32:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11880
+2018-02-25  5:33:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11910
+2018-02-25  5:33:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11940
+2018-02-25  5:34:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 11970
+2018-02-25  5:35:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12000
+2018-02-25  5:36:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12030
+2018-02-25  5:36:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12060
+2018-02-25  5:37:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12090
+2018-02-25  5:38:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12120
+2018-02-25  5:39:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12150
+2018-02-25  5:39:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12180
+2018-02-25  5:40:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12210
+2018-02-25  5:41:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12240
+2018-02-25  5:42:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12270
+2018-02-25  5:42:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12300
+2018-02-25  5:43:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12330
+2018-02-25  5:44:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12360
+2018-02-25  5:45:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12390
+2018-02-25  5:45:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12420
+2018-02-25  5:46:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12450
+2018-02-25  5:47:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12480
+2018-02-25  5:48:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12510
+2018-02-25  5:48:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12540
+2018-02-25  5:49:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12570
+2018-02-25  5:50:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12600
+2018-02-25  5:51:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12630
+2018-02-25  5:51:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12660
+2018-02-25  5:52:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12690
+2018-02-25  5:53:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12720
+2018-02-25  5:54:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12750
+2018-02-25  5:54:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12780
+2018-02-25  5:55:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12810
+2018-02-25  5:56:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12840
+2018-02-25  5:57:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12870
+2018-02-25  5:57:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12900
+2018-02-25  5:58:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12930
+2018-02-25  5:59:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12960
+2018-02-25  6:00:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 12990
+2018-02-25  6:00:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13020
+2018-02-25  6:01:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13050
+2018-02-25  6:02:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13080
+2018-02-25  6:03:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13110
+2018-02-25  6:03:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13140
+2018-02-25  6:04:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13170
+2018-02-25  6:05:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13200
+2018-02-25  6:06:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13230
+2018-02-25  6:06:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13260
+2018-02-25  6:07:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13290
+2018-02-25  6:08:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13320
+2018-02-25  6:09:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13350
+2018-02-25  6:09:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13380
+2018-02-25  6:10:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13410
+2018-02-25  6:11:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13440
+2018-02-25  6:12:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13470
+2018-02-25  6:12:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13500
+2018-02-25  6:13:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13530
+2018-02-25  6:14:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13560
+2018-02-25  6:15:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13590
+2018-02-25  6:15:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13620
+2018-02-25  6:16:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13650
+2018-02-25  6:17:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13680
+2018-02-25  6:18:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13710
+2018-02-25  6:18:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13740
+2018-02-25  6:19:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13770
+2018-02-25  6:20:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13800
+2018-02-25  6:21:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13830
+2018-02-25  6:21:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13860
+2018-02-25  6:22:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13890
+2018-02-25  6:23:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13920
+2018-02-25  6:24:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13950
+2018-02-25  6:24:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 13980
+2018-02-25  6:25:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14010
+2018-02-25  6:26:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14040
+2018-02-25  6:27:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14070
+2018-02-25  6:27:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14100
+2018-02-25  6:28:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14130
+2018-02-25  6:29:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14160
+2018-02-25  6:30:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14190
+2018-02-25  6:30:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14220
+2018-02-25  6:31:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14250
+2018-02-25  6:32:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14280
+2018-02-25  6:33:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14310
+2018-02-25  6:33:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14340
+2018-02-25  6:34:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14370
+2018-02-25  6:35:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14400
+2018-02-25  6:36:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14430
+2018-02-25  6:36:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14460
+2018-02-25  6:37:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14490
+2018-02-25  6:38:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14520
+2018-02-25  6:39:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14550
+2018-02-25  6:39:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14580
+2018-02-25  6:40:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14610
+2018-02-25  6:41:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14640
+2018-02-25  6:42:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14670
+2018-02-25  6:42:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14700
+2018-02-25  6:43:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14730
+2018-02-25  6:44:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14760
+2018-02-25  6:45:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14790
+2018-02-25  6:45:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14820
+2018-02-25  6:46:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14850
+2018-02-25  6:47:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14880
+2018-02-25  6:48:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14910
+2018-02-25  6:48:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14940
+2018-02-25  6:49:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 14970
+2018-02-25  6:50:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15000
+2018-02-25  6:51:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15030
+2018-02-25  6:51:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15060
+2018-02-25  6:52:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15090
+2018-02-25  6:53:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15120
+2018-02-25  6:54:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15150
+2018-02-25  6:54:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15180
+2018-02-25  6:55:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15210
+2018-02-25  6:56:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15240
+2018-02-25  6:57:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15270
+2018-02-25  6:57:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15300
+2018-02-25  6:58:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15330
+2018-02-25  6:59:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15360
+2018-02-25  7:00:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15390
+2018-02-25  7:00:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15420
+2018-02-25  7:01:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15450
+2018-02-25  7:02:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15480
+2018-02-25  7:03:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15510
+2018-02-25  7:03:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15540
+2018-02-25  7:04:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15570
+2018-02-25  7:05:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15600
+2018-02-25  7:06:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15630
+2018-02-25  7:06:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15660
+2018-02-25  7:07:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15690
+2018-02-25  7:08:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15720
+2018-02-25  7:09:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15750
+2018-02-25  7:09:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15780
+2018-02-25  7:10:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15810
+2018-02-25  7:11:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15840
+2018-02-25  7:12:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15870
+2018-02-25  7:12:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15900
+2018-02-25  7:13:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15930
+2018-02-25  7:14:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15960
+2018-02-25  7:15:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 15990
+2018-02-25  7:15:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16020
+2018-02-25  7:16:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16050
+2018-02-25  7:17:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16080
+2018-02-25  7:18:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16110
+2018-02-25  7:18:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16140
+2018-02-25  7:19:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16170
+2018-02-25  7:20:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16200
+2018-02-25  7:21:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16230
+2018-02-25  7:21:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16260
+2018-02-25  7:22:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16290
+2018-02-25  7:23:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16320
+2018-02-25  7:24:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16350
+2018-02-25  7:24:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16380
+2018-02-25  7:25:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16410
+2018-02-25  7:26:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16440
+2018-02-25  7:27:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16470
+2018-02-25  7:27:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16500
+2018-02-25  7:28:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16530
+2018-02-25  7:29:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16560
+2018-02-25  7:30:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16590
+2018-02-25  7:30:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16620
+2018-02-25  7:31:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16650
+2018-02-25  7:32:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16680
+2018-02-25  7:33:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16710
+2018-02-25  7:33:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16740
+2018-02-25  7:34:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16770
+2018-02-25  7:35:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16800
+2018-02-25  7:36:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16830
+2018-02-25  7:36:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16860
+2018-02-25  7:37:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16890
+2018-02-25  7:38:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16920
+2018-02-25  7:39:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16950
+2018-02-25  7:39:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 16980
+2018-02-25  7:40:34 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17010
+2018-02-25  7:41:19 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17040
+2018-02-25  7:42:04 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17070
+2018-02-25  7:42:49 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17100
+2018-02-25  7:43:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17130
+2018-02-25  7:44:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17160
+2018-02-25  7:45:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17190
+2018-02-25  7:45:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17220
+2018-02-25  7:46:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17250
+2018-02-25  7:47:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17280
+2018-02-25  7:48:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17310
+2018-02-25  7:48:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17340
+2018-02-25  7:49:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17370
+2018-02-25  7:50:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17400
+2018-02-25  7:51:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17430
+2018-02-25  7:51:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17460
+2018-02-25  7:52:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17490
+2018-02-25  7:53:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17520
+2018-02-25  7:54:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17550
+2018-02-25  7:54:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17580
+2018-02-25  7:55:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17610
+2018-02-25  7:56:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17640
+2018-02-25  7:57:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17670
+2018-02-25  7:57:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17700
+2018-02-25  7:58:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17730
+2018-02-25  7:59:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17760
+2018-02-25  8:00:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17790
+2018-02-25  8:00:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17820
+2018-02-25  8:01:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17850
+2018-02-25  8:02:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17880
+2018-02-25  8:03:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17910
+2018-02-25  8:03:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17940
+2018-02-25  8:04:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 17970
+2018-02-25  8:05:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18000
+2018-02-25  8:06:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18030
+2018-02-25  8:06:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18060
+2018-02-25  8:07:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18090
+2018-02-25  8:08:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18120
+2018-02-25  8:09:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18150
+2018-02-25  8:09:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18180
+2018-02-25  8:10:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18210
+2018-02-25  8:11:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18240
+2018-02-25  8:12:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18270
+2018-02-25  8:12:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18300
+2018-02-25  8:13:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18330
+2018-02-25  8:14:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18360
+2018-02-25  8:15:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18390
+2018-02-25  8:15:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18420
+2018-02-25  8:16:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18450
+2018-02-25  8:17:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18480
+2018-02-25  8:18:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18510
+2018-02-25  8:18:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18540
+2018-02-25  8:19:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18570
+2018-02-25  8:20:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18600
+2018-02-25  8:21:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18630
+2018-02-25  8:21:48 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18660
+2018-02-25  8:22:33 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18690
+2018-02-25  8:23:18 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18720
+2018-02-25  8:24:03 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18750
+2018-02-25  8:24:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18780
+2018-02-25  8:25:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18810
+2018-02-25  8:26:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18840
+2018-02-25  8:27:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18870
+2018-02-25  8:27:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18900
+2018-02-25  8:28:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18930
+2018-02-25  8:29:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18960
+2018-02-25  8:30:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 18990
+2018-02-25  8:30:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19020
+2018-02-25  8:31:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19050
+2018-02-25  8:32:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19080
+2018-02-25  8:33:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19110
+2018-02-25  8:33:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19140
+2018-02-25  8:34:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19170
+2018-02-25  8:35:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19200
+2018-02-25  8:36:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19230
+2018-02-25  8:36:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19260
+2018-02-25  8:37:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19290
+2018-02-25  8:38:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19320
+2018-02-25  8:39:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19350
+2018-02-25  8:39:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19380
+2018-02-25  8:40:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19410
+2018-02-25  8:41:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19440
+2018-02-25  8:42:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19470
+2018-02-25  8:42:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19500
+2018-02-25  8:43:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19530
+2018-02-25  8:44:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19560
+2018-02-25  8:45:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19590
+2018-02-25  8:45:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19620
+2018-02-25  8:46:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19650
+2018-02-25  8:47:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19680
+2018-02-25  8:48:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19710
+2018-02-25  8:48:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19740
+2018-02-25  8:49:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19770
+2018-02-25  8:50:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19800
+2018-02-25  8:51:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19830
+2018-02-25  8:51:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19860
+2018-02-25  8:52:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19890
+2018-02-25  8:53:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19920
+2018-02-25  8:54:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19950
+2018-02-25  8:54:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 19980
+2018-02-25  8:55:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20010
+2018-02-25  8:56:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20040
+2018-02-25  8:57:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20070
+2018-02-25  8:57:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20100
+2018-02-25  8:58:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20130
+2018-02-25  8:59:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20160
+2018-02-25  9:00:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20190
+2018-02-25  9:00:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20220
+2018-02-25  9:01:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20250
+2018-02-25  9:02:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20280
+2018-02-25  9:03:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20310
+2018-02-25  9:03:47 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20340
+2018-02-25  9:04:32 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20370
+2018-02-25  9:05:17 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20400
+2018-02-25  9:06:02 140006217053952 [Note] WSREP: (c7844ad5, 'tcp://0.0.0.0:4567') reconnecting to 96986128 (tcp://192.168.88.74:4567), attempt 20430
+2018-02-25  9:06:27 140006203415296 [Note] /usr/sbin/mysqld: Normal shutdown
+
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: Stop replication
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: Closing send monitor...
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: Closed send monitor.
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: gcomm: terminating thread
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: gcomm: joining thread
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: gcomm: closing backend
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: view(view_id(NON_PRIM,00a1fc6e,780) memb {
+	c7844ad5,0
+} joined {
+} left {
+} partitioned {
+	00a1fc6e,0
+	96986128,0
+	c352e937,0
+	d8f3d2b6,0
+})
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: view((empty))
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: gcomm: closed
+2018-02-25  9:06:27 140006001731328 [Note] WSREP: New COMPONENT: primary = no, bootstrap = no, my_idx = 0, memb_num = 1
+2018-02-25  9:06:27 140006001731328 [Note] WSREP: Flow-control interval: [16, 16]
+2018-02-25  9:06:27 140006001731328 [Note] WSREP: Received NON-PRIMARY.
+2018-02-25  9:06:27 140006001731328 [Note] WSREP: Received self-leave message.
+2018-02-25  9:06:27 140006001731328 [Note] WSREP: Flow-control interval: [0, 0]
+2018-02-25  9:06:27 140006001731328 [Note] WSREP: Received SELF-LEAVE. Closing connection.
+2018-02-25  9:06:27 140006001731328 [Note] WSREP: Shifting OPEN -> CLOSED (TO: 743472)
+2018-02-25  9:06:27 140006001731328 [Note] WSREP: RECV thread exiting 0: Success
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: recv_thread() joined.
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: Closing replication queue.
+2018-02-25  9:06:27 140006203415296 [Note] WSREP: Closing slave action queue.
+2018-02-25  9:06:27 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472, view# -1: non-Primary, number of nodes: 1, my index: 0, protocol version 3
+2018-02-25  9:06:27 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-25  9:06:27 140006208355072 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472, view# -1: non-Primary, number of nodes: 0, my index: -1, protocol version 3
+2018-02-25  9:06:27 140006208355072 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-25  9:06:27 140006208355072 [Note] WSREP: applier thread exiting (code:0)
+2018-02-25  9:06:29 140006208658176 [Note] WSREP: rollbacker thread exiting
+2018-02-25  9:06:29 140006203415296 [Note] Event Scheduler: Purging the queue. 0 events
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: dtor state: CLOSED
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: mon: entered 381554 oooe fraction 0 oool fraction 0
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: mon: entered 381554 oooe fraction 0 oool fraction 0
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: mon: entered 390620 oooe fraction 0 oool fraction 7.6801e-06
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: cert index usage at exit 0
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: cert trx map usage at exit 112
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: deps set usage at exit 0
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: avg deps dist 56.7522
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: avg cert interval 0.000532039
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: cert index size 31
+2018-02-25  9:06:29 140006250624768 [Note] WSREP: Service thread queue flushed.
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: wsdb trx map usage 0 conn query map usage 0
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: MemPool(LocalTrxHandle): hit ratio: 0.971861, misses: 130, in use: 0, in pool: 130
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: MemPool(SlaveTrxHandle): hit ratio: 0.99965, misses: 132, in use: 0, in pool: 132
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: Shifting CLOSED -> DESTROYED (TO: 743472)
+2018-02-25  9:06:29 140006203415296 [Note] WSREP: Flushing memory map to disk...
+2018-02-25  9:06:29 140004835706624 [Note] InnoDB: FTS optimize thread exiting.
+2018-02-25  9:06:29 140006203415296 [Note] InnoDB: Starting shutdown...
+2018-02-25  9:06:30 140006203415296 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-02-25  9:06:31 140006203415296 [Note] InnoDB: Shutdown completed; log sequence number 1187264315
+2018-02-25  9:06:31 140006203415296 [Note] /usr/sbin/mysqld: Shutdown complete
+
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: Read nil XID from storage engines, skipping position init
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: wsrep_load(): loading provider library '/usr/lib64/galera/libgalera_smm.so'
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: wsrep_load(): Galera 25.3.19(r3667) by Codership Oy <info@codership.com> loaded successfully.
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: CRC-32C: using hardware acceleration.
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: Found saved state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472, safe_to_bootsrap: 0
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: Passing config to GCS: base_dir = /var/lib/mysql/; base_host = 192.168.88.72; base_port = 4567; cert.log_conflicts = no; debug = no; evs.auto_evict = 0; evs.delay_margin = PT1S; evs.delayed_keep_period = PT30S; evs.inactive_check_period = PT0.5S; evs.inactive_timeout = PT15S; evs.join_retrans_period = PT1S; evs.max_install_timeouts = 3; evs.send_window = 4; evs.stats_report_period = PT1M; evs.suspect_timeout = PT5S; evs.user_send_window = 2; evs.view_forget_timeout = PT24H; gcache.dir = /var/lib/mysql/; gcache.keep_pages_size = 0; gcache.mem_size = 0; gcache.name = /var/lib/mysql//galera.cache; gcache.page_size = 128M; gcache.recover = no; gcache.size = 128M; gcomm.thread_prio = ; gcs.fc_debug = 0; gcs.fc_factor = 1.0; gcs.fc_limit = 16; gcs.fc_master_slave = no; gcs.max_packet_size = 64500; gcs.max_throttle = 0.25; gcs.recv_q_hard_limit = 9223372036854775807; gcs.recv_q_soft_limit = 0.25; gcs.sync_donor = no; gmcast.segment = 0; gmcast.version = 0; pc.announce_timeout = PT3S; pc.checksum = false; pc.
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: GCache history reset: old(2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:0) -> new(2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472)
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: Assign initial position for certification: 743472, protocol version: -1
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: wsrep_sst_grab()
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: Start replication
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: Setting initial position to 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: protonet asio version 0
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: Using CRC-32C for message checksums.
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: backend: asio
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: gcomm thread scheduling priority set to other:0 
+2018-02-25  9:08:55 139847370127552 [Warning] WSREP: access file(/var/lib/mysql//gvwstate.dat) failed(No such file or directory)
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: restore pc from disk failed
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: GMCast version 0
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') listening at tcp://0.0.0.0:4567
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') multicast: , ttl: 1
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: EVS version 0
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: gcomm: connecting to group 'sunlight_stb_cluster', peer '192.168.88.71:,192.168.88.72:,192.168.88.73:,192.168.88.74:'
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') connection established to 733422c3 tcp://192.168.88.72:4567
+2018-02-25  9:08:55 139847370127552 [Warning] WSREP: (733422c3, 'tcp://0.0.0.0:4567') address 'tcp://192.168.88.72:4567' points to own listening address, blacklisting
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') connection established to 00a1fc6e tcp://192.168.88.73:4567
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: 
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') connection established to 565fe177 tcp://192.168.88.71:4567
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: evs::proto(733422c3, GATHER, view_id(TRANS,733422c3,0)) temporarily discarding known 565fe177 due to received install message
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-25  9:08:55 139847370127552 [Note] WSREP: view(view_id(NON_PRIM,00a1fc6e,783) memb {
+	00a1fc6e,0
+	733422c3,0
+} joined {
+} left {
+} partitioned {
+	96986128,0
+	c352e937,0
+	c7844ad5,0
+	d8f3d2b6,0
+})
+2018-02-25  9:08:58 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') connection to peer 733422c3 with addr tcp://192.168.88.72:4567 timed out, no messages seen in PT3S
+2018-02-25  9:08:58 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-25  9:09:01 139847370127552 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-25  9:09:01 139847370127552 [Note] WSREP: view(view_id(NON_PRIM,00a1fc6e,784) memb {
+	00a1fc6e,0
+	733422c3,0
+} joined {
+} left {
+} partitioned {
+	96986128,0
+	c352e937,0
+	c7844ad5,0
+	d8f3d2b6,0
+})
+2018-02-25  9:09:04 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') connection to peer 565fe177 with addr tcp://192.168.88.71:4567 timed out, no messages seen in PT3S
+2018-02-25  9:09:04 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') turning message relay requesting on, nonlive peers: tcp://192.168.88.71:4567 
+2018-02-25  9:09:05 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') reconnecting to 565fe177 (tcp://192.168.88.71:4567), attempt 0
+2018-02-25  9:09:05 139847370127552 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') connection established to 565fe177 tcp://192.168.88.71:4567
+2018-02-25  9:09:06 139847370127552 [Note] WSREP: declaring 00a1fc6e at tcp://192.168.88.73:4567 stable
+2018-02-25  9:09:06 139847370127552 [Note] WSREP: declaring 565fe177 at tcp://192.168.88.71:4567 stable
+2018-02-25  9:09:06 139847370127552 [Note] WSREP: Node 565fe177 state prim
+2018-02-25  9:09:06 139847370127552 [Note] WSREP: view(view_id(PRIM,00a1fc6e,785) memb {
+	00a1fc6e,0
+	565fe177,0
+	733422c3,0
+} joined {
+} left {
+} partitioned {
+	96986128,0
+	c352e937,0
+	c7844ad5,0
+	d8f3d2b6,0
+})
+2018-02-25  9:09:06 139847370127552 [Note] WSREP: save pc into disk
+2018-02-25  9:09:06 139847370127552 [Note] WSREP: discarding pending addr without UUID: tcp://192.168.88.74:4567
+2018-02-25  9:09:07 139847370127552 [Note] WSREP: gcomm: connected
+2018-02-25  9:09:07 139847370127552 [Note] WSREP: Changing maximum packet size to 64500, resulting msg size: 32636
+2018-02-25  9:09:07 139847370127552 [Note] WSREP: Shifting CLOSED -> OPEN (TO: 0)
+2018-02-25  9:09:07 139847370127552 [Note] WSREP: Opened channel 'sunlight_stb_cluster'
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: New COMPONENT: primary = no, bootstrap = no, my_idx = 1, memb_num = 2
+2018-02-25  9:09:07 139847370127552 [Note] WSREP: Waiting for SST to complete.
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Flow-control interval: [23, 23]
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Received NON-PRIMARY.
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: New COMPONENT: primary = no, bootstrap = no, my_idx = 1, memb_num = 2
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472, view# -1: non-Primary, number of nodes: 2, my index: 1, protocol version -1
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Flow-control interval: [23, 23]
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Received NON-PRIMARY.
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472, view# -1: non-Primary, number of nodes: 2, my index: 1, protocol version -1
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: New COMPONENT: primary = yes, bootstrap = no, my_idx = 2, memb_num = 3
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: STATE EXCHANGE: Waiting for state UUID.
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: STATE EXCHANGE: sent state msg: 7a1091c2-19c8-11e8-a106-ca7a404fa57c
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: STATE EXCHANGE: got state msg: 7a1091c2-19c8-11e8-a106-ca7a404fa57c from 0 (garb)
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: STATE EXCHANGE: got state msg: 7a1091c2-19c8-11e8-a106-ca7a404fa57c from 1 (YTLDS-144-1-Web01)
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: STATE EXCHANGE: got state msg: 7a1091c2-19c8-11e8-a106-ca7a404fa57c from 2 (YTLDS-144-2-Web02)
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Quorum results:
+	version    = 4,
+	component  = PRIMARY,
+	conf_id    = 2,
+	members    = 1/3 (joined/total),
+	act_id     = 743479,
+	last_appl. = -1,
+	protocols  = 0/7/3 (gcs/repl/appl),
+	group UUID = 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Flow-control interval: [28, 28]
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Shifting OPEN -> PRIMARY (TO: 743479)
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: State transfer required: 
+	Group state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743479
+	Local state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: New cluster view: global state: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743479, view# 3: Primary, number of nodes: 3, my index: 2, protocol version 3
+2018-02-25  9:09:07 139847292992256 [Warning] WSREP: Gap in state sequence. Need state transfer.
+2018-02-25  9:09:07 139847045977856 [Note] WSREP: Running: 'wsrep_sst_rsync --role 'joiner' --address '192.168.88.72' --datadir '/var/lib/mysql/'   --parent '1084'  '' '
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Member 0.0 (garb) requested state transfer from '*any*'. Selected 1.0 (YTLDS-144-1-Web01)(SYNCED) as donor.
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: 0.0 (garb): State transfer from 1.0 (YTLDS-144-1-Web01) complete.
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: 1.0 (YTLDS-144-1-Web01): State transfer to 0.0 (garb) complete.
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Member 0.0 (garb) synced with group.
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Member 1.0 (YTLDS-144-1-Web01) synced with group.
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: Prepared SST request: rsync|192.168.88.72:4444/rsync_sst
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: REPL Protocols: 7 (3, 2)
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: Assign initial position for certification: 743479, protocol version: 3
+2018-02-25  9:09:07 139847301691136 [Note] WSREP: Service thread queue flushed.
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: IST receiver addr using tcp://192.168.88.72:4568
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: Prepared IST receiver, listening at: tcp://192.168.88.72:4568
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Member 2.0 (YTLDS-144-2-Web02) requested state transfer from '*any*'. Selected 1.0 (YTLDS-144-1-Web01)(SYNCED) as donor.
+2018-02-25  9:09:07 139847054370560 [Note] WSREP: Shifting PRIMARY -> JOINER (TO: 743479)
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: Requesting state transfer: success, donor: 1
+2018-02-25  9:09:07 139847292992256 [Note] WSREP: GCache history reset: old(2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:0) -> new(2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743479)
+2018-02-25  9:09:09 139847062763264 [Note] WSREP: (733422c3, 'tcp://0.0.0.0:4567') turning message relay requesting off
+2018-02-25  9:09:22 139847054370560 [Note] WSREP: 1.0 (YTLDS-144-1-Web01): State transfer to 2.0 (YTLDS-144-2-Web02) complete.
+2018-02-25  9:09:22 139847054370560 [Note] WSREP: Member 1.0 (YTLDS-144-1-Web01) synced with group.
+WSREP_SST: [INFO] Joiner cleanup. rsync PID: 1148 (20180225 09:09:23.030)
+WSREP_SST: [INFO] Joiner cleanup done. (20180225 09:09:23.539)
+2018-02-25  9:09:23 139847370127552 [Note] WSREP: SST complete, seqno: 743472
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: Using Linux native AIO
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: Using SSE crc32 instructions
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: Completed initialization of buffer pool
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB: Waiting for purge to start
+2018-02-25  9:09:23 139847370127552 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.35-80.0 started; log sequence number 1187264325
+2018-02-25  9:09:23 139845977405184 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-02-25  9:09:23 139847370127552 [Note] Plugin 'FEEDBACK' is disabled.
+2018-02-25  9:09:23 139847370127552 [Note] Server socket created on IP: '0.0.0.0'.
+2018-02-25  9:09:23 139847370127552 [Warning] 'user' entry 'root@ytlds-web-01' ignored in --skip-name-resolve mode.
+2018-02-25  9:09:23 139847370127552 [Warning] 'user' entry '@ytlds-web-01' ignored in --skip-name-resolve mode.
+2018-02-25  9:09:23 139847370127552 [Warning] 'proxies_priv' entry '@% root@ytlds-web-01' ignored in --skip-name-resolve mode.
+2018-02-25  9:09:23 139847370127552 [Note] WSREP: Signalling provider to continue.
+2018-02-25  9:09:23 139847370127552 [Note] WSREP: SST received: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743472
+2018-02-25  9:09:23 139847292992256 [Note] WSREP: Receiving IST: 7 writesets, seqnos 743472-743479
+2018-02-25  9:09:23 139847370127552 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '10.1.22-MariaDB'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MariaDB Server
+2018-02-25  9:09:23 139847292992256 [Note] WSREP: IST received: 2cabdaaf-c9e5-11e7-96fa-cb5cbf4e9956:743479
+2018-02-25  9:09:23 139847054370560 [Note] WSREP: 2.0 (YTLDS-144-2-Web02): State transfer from 1.0 (YTLDS-144-1-Web01) complete.
+2018-02-25  9:09:23 139847054370560 [Note] WSREP: Shifting JOINER -> JOINED (TO: 743480)
+2018-02-25  9:09:23 139847054370560 [Note] WSREP: Member 2.0 (YTLDS-144-2-Web02) synced with group.
+2018-02-25  9:09:23 139847054370560 [Note] WSREP: Shifting JOINED -> SYNCED (TO: 743480)
+2018-02-25  9:09:23 139847292992256 [Note] WSREP: Synchronized with group, ready for connections
+2018-02-25  9:09:23 139847292992256 [Note] WSREP: wsrep_notify_cmd is not defined, skipping notification.
+2018-02-25  9:15:08 139847054370560 [Note] WSREP: Member 1.0 (YTLDS-144-1-Web01) desyncs itself from group
+2018-02-25  9:15:08 139847054370560 [Note] WSREP: Member 1.0 (YTLDS-144-1-Web01) resyncs itself to group
+2018-02-25  9:15:08 139847054370560 [Note] WSREP: Member 1.0 (YTLDS-144-1-Web01) synced with group.
